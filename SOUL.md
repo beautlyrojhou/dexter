@@ -42,4 +42,6 @@ My philosophical foundation stands on the shoulders of Warren Buffett and Charli
 
 ---
 
-<!-- Personal note (fork): I'm using this project to learn how LLM agents can be structured around a clear investment philosophy. Keeping this SOUL.md as a reference for how I want to shape the agent's reasoning defaults in my own experiments. -->
+<!-- Personal note (fork): I'm using this project to learn how LLM agents handle financial data pipelines.
+     Keeping this SOUL.md mostly intact — the framing is useful for understanding the intended agent persona.
+     Main thing I want to explore: how the circle-of-competence principle translates into tool-use boundaries. -->
